@@ -5,7 +5,7 @@ Created on Wed Oct 26 14:37:58 2022
 @author: Havva
 """
 
-#if you haven't download the libraries yet, you can use the codes below to upload
+#if you haven't downloaded the libraries yet, you can use the codes below to upload
 #pip install requests
 #pip install bs4 #-- and if you're using macOS as system, u have to use pip3 install ..... instead of pip install --
 
